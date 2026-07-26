@@ -174,7 +174,7 @@ Both confusion matrices indicate reliable classification performance for bone di
 To improve clinical trust, the framework integrates **Grad-CAM** visualization, highlighting the image regions responsible for the model's predictions.
 
 <p align="center">
-<img src="results/output1" width="850">
+<img src="results/output1.png" width="850">
 </p>
 
 The visualization helps clinicians understand how the model reaches its diagnostic decision.
