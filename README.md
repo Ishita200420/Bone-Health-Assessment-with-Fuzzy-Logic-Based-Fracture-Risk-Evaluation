@@ -43,7 +43,7 @@ The proposed framework consists of multiple stages:
 8. Final Diagnostic Report
 
 <p align="center">
-<img src="images/system_architecture.png" width="900">
+<img src="results/system_architecture.png" width="900">
 </p>
 
 ---
