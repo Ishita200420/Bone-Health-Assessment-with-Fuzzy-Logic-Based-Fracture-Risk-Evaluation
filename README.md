@@ -239,9 +239,8 @@ This repository contains:
 
 # Author
 
-**Ishita Rana**
-
-Computer Science Engineer | Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision
+- **Ishita Rana:**
+  www.linkedin.com/in/ishita-rana-03651b305
 
 ---
 
