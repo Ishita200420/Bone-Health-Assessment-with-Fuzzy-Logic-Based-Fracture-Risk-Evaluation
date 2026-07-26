@@ -237,10 +237,11 @@ This repository contains:
 
 ---
 
-# Author
-
+# Authors
 - **Ishita Rana:**
   www.linkedin.com/in/ishita-rana-03651b305
+- **Leena:**
+  www.linkedin.com/in/leenabansal1108
 
 ---
 
