@@ -224,19 +224,6 @@ Instead of providing only a binary prediction, the system estimates five clinica
 
 ---
 
-# Repository Contents
-
-This repository contains:
-
-- Major Project Report
-- Dataset Information
-- Experimental Results
-- Model Evaluation Plots
-- System Architecture
-- Implementation Codes
-
----
-
 # Authors
 - **Ishita Rana:**
   www.linkedin.com/in/ishita-rana-03651b305
